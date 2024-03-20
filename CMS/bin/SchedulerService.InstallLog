@@ -1,0 +1,27 @@
+﻿Installing assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   i = 
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.InstallLog
+Installing service KenticoCMSScheduler(dg)...
+Service KenticoCMSScheduler(dg) has been successfully installed.
+Creating EventLog source KenticoCMSScheduler(dg) in log Application...
+See the contents of the log file for the C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe assembly's progress.
+The file is located at C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.InstallLog.
+Committing assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   i = 
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\SchedulerService.InstallLog
+   u = 
+Removing EventLog source KenticoCMSScheduler(dg).
+Service KenticoCMSScheduler(dg) is being removed from the system...
+Service KenticoCMSScheduler(dg) was successfully removed from the system.

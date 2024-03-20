@@ -1,0 +1,27 @@
+﻿Installing assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   i = 
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.InstallLog
+Installing service KenticoCMSHealthMonitor(dg)...
+Service KenticoCMSHealthMonitor(dg) has been successfully installed.
+Creating EventLog source KenticoCMSHealthMonitor(dg) in log Application...
+See the contents of the log file for the C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe assembly's progress.
+The file is located at C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.InstallLog.
+Committing assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   i = 
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe'.
+Affected parameters are:
+   webpath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS
+   assemblypath = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.exe
+   logfile = C:\Users\SYN-ILG\OneDrive - Synergy\Documents\dg\CMS\bin\HealthMonitoringService.InstallLog
+   u = 
+Removing EventLog source KenticoCMSHealthMonitor(dg).
+Service KenticoCMSHealthMonitor(dg) is being removed from the system...
+Service KenticoCMSHealthMonitor(dg) was successfully removed from the system.
